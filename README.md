@@ -14,6 +14,10 @@ Currently, I'm learning full-stack development with HTML, CSS, JavaScript (TypeS
 
 # Amount of code written
 
+I have use a tool that scan a GitHub repo and give the number of lines of code in the repo for the top repo this is the result
+
+<img src="/lines-of-code.png" alt="Lines of Code" height="500"/>
+
 I have use the `cloc` tool in order to count the amount of code I have written in the past 3-4 years and here is the result
 
 | Language             | Files | Code  |
