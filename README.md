@@ -4,7 +4,7 @@
 - Swift
 - C#
 - Java
-- C++
+- C/C++
 - JavaScript (TypeScript)
 - HTML/CSS
 
