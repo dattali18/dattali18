@@ -1,3 +1,5 @@
+# Daniel Attali (dattali18)
+
 👋 Hi, I’m @dattali18 (Daniel Attali), a third-year software engineering student 🖥️ with a specialization in AI, ML, and Data Science. I'm passionate about software development and have experience with a variety of programming languages and technologies:
 
 - Python 🐍
@@ -36,7 +38,7 @@ I build native iOS apps using SwiftUI and backend systems with ASP.NET in C#. I'
 - SQL
 - ORM
 
-## Repos
+### Repos
 
 - [iOS app for course management `SwiftUI`](https://github.com/dattali18/UX-Prototype)
 - [Native windows app using `WPF` and `C#`](https://github.com/dattali18/WPF-.NET-Project)
@@ -53,7 +55,7 @@ used React for front-end development and Node.js for back-end development.
 - React (Js, TypeScript)
 - Node.js
 
-## Repos 
+### Repos 
 
 - [Frontend for a school project `React`](https://github.com/dattali18/Windows-System-Frontend-React)
 - [Backend for a school project `C#`](https://github.com/dattali18/WindowsSystem-Backend)
@@ -74,7 +76,7 @@ I have written a C++ Math library using C++20 and CMake, this library is used fo
 - NumPy
 - Matplotlib
 
-## Repos
+### Repos
 
 - [AI-Agents `Python`, `PyTorch`](https://github.com/dattali18/AI-Agent-Framwork)
 - [C++ Math Library `C++20`, `CMake`](https://github.com/dattali18/CPP-Math-Library)
@@ -95,10 +97,12 @@ I have written a Ray tracing engine using Java17, this project is more than 10k 
 - PyTorch
 - Java17
 
+### Repos
+
 - [AI-Agents `Python`, `PyGame`](https://github.com/dattali18/AI-Agent-Framwork)
 - [Ray Tracing Engine `Java17`](https://github.com/dattali18/Ray-Tracing-Engine)
 
-# Amount of code written
+## Amount of code written
 
 I have use a tool that scan a GitHub repo and give the number of lines of code in the repo for the top repo this is the result
 
