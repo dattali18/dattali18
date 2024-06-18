@@ -113,25 +113,31 @@ I have use the `cloc` tool in order to count the amount of code I have written i
 > Note: the data might not be up to date
 > since I have written more code since the last time I ran the tool
 
-| Language             | Files | Code  |
-|----------------------|-------|-------|
-| Python               | 112   | 7203  |
-| Swift                | 120   | 11055 |
-| C#                   | 106   | 9952  |
-| XAML                 | 19    | 2381  |
-| XML                  | 77    | 3919  |
-| Java                 | 61    | 9591  |
-| C++                  | 110   | 11697 |
-| C/C++ Header         | 55    | 2957  |
-| C                    | 1     | 807   |
-| CMake                | 7     | 259   |
-| HTML                 | 28    | 4673  |
-| CSS                  | 29    | 3033  |
-| JavaScript           | 28    | 2012  |
-| TypeScript           | 13    | 467   |
-| JSX                  | 2     | 62    |
-| JSON                 | 36    | 28418 |
-| Markdown             | 16    | 1859  |
+|language              |files|line of code|
+|----------------------|-----|------------|
+|C++                   |116  |11651       |
+|C/C++ Header          |57   |4154        |
+|CMake                 |2    |65          |
+|C#                    |113  |10569       |
+|Python                |117  |8190        |
+|Jupyter Notebook      |7    |4005        |
+|JavaScript            |51   |15639       |
+|TypeScript            |47   |1986        |
+|JSX                   |40   |1655        |
+|CSS                   |71   |9902        |
+|HTML                  |56   |7699        |
+|Java                  |70   |9822        |
+|Swift                 |120  |11055       |
+|Markdown              |45   |6099        |
+|XML                   |80   |4088        |
+|Sass                  |15   |2703        |
+|XAML                  |19   |2381        |
+|YAML                  |2    |121         |
+|Bash                  |4    |83          |
+|Assembly              |1    |54          |
+|JSON                  |36   |69186       |
+|SQL                   |47   |33327       |
+|CSV                   |20   |9943        |
 
 
 <!---
