@@ -38,7 +38,14 @@
 
 ## My GitHub contributions summary
 
-![dattali18 states](https://github-readme-stats.vercel.app/api?username=dattali18&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+![dattali18 states](https://github-readme-stats.vercel.app/api?username=dattali18&hide_border=true&show_icons=true&hide=prs,issues,contribs&theme=dark&rank_icon=github&include_all_commits=true)
+
+## My top used languages
+
+> [!Note]
+> according to a tool called `github-readme-stats.vercel` might not be super accurate
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dattali18&size_weight=0&count_weight=1&hide=CMake,Jupiter,CSS&langs_count=8&theme=dark&layout=donut-vertical)
 
 # Experience
 
