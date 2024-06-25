@@ -36,6 +36,9 @@
 - TensorFlow 🧠
 - NumPy + Pandas 🐼
 
+## My GitHub contributions summary
+
+![dattali18 states](https://github-readme-stats.vercel.app/api?username=dattali18&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 # Experience
 
@@ -59,7 +62,7 @@ I build native iOS apps using SwiftUI and backend systems with ASP.NET in C#. I'
 ### Repos
 
 - [iOS app for course management `SwiftUI`](https://github.com/dattali18/UX-Prototype)
-- [Native windows app using `WPF` and `C#`](https://github.com/dattali18/WPF-.NET-Project)
+- [Native Windows app using `WPF` and `C#`](https://github.com/dattali18/WPF-.NET-Project)
 - [Backend for a school project `C#`, `RestAPI`](https://github.com/dattali18/WindowsSystem-Backend)
 - [A database system for airport `SQL`](https://github.com/dattali18/SQL-Project)
 
