@@ -87,13 +87,13 @@ used React for front-end development and Node.js for back-end development.
 
 - [Frontend for a school project `React`](https://github.com/dattali18/Windows-System-Frontend-React)
 - [Backend for a school project `C#`](https://github.com/dattali18/WindowsSystem-Backend)
-- [A simple website to see and analyze the repo of github users `React`](https://github.com/dattali18/GitHub-user-search)
+- [A simple website to see and analyze the repo of GitHub users `React`](https://github.com/dattali18/GitHub-user-search)
 
 ## Machine Learning and Data Science
 
 I have created a few projects using machine learning and data science, such as a sentiment analysis model using Python and a recommendation system using collaborative filtering.
 
-I have written a C++ Math library using C++20 and CMake, this library is used for machine learning and data science projects, this project is on going and helping me learn more about C++ and CMake, And deep dive into the math behind machine learning and data science.
+I have written a C++ Math library using C++20 and CMake, this library is used for machine learning and data science projects, this project is ongoing and helping me learn more about C++ and CMake, And deep dive into the math behind machine learning and data science.
 
 ### Technologies
 
@@ -110,12 +110,12 @@ I have written a C++ Math library using C++20 and CMake, this library is used fo
 - [C++ Math Library `C++20`, `CMake`](https://github.com/dattali18/CPP-Math-Library)
 - [Collection of AI and ML algorithms `Python`](https://github.com/dattali18/AI_Algorithm)
 
-currently I'm learning about deep learning and neural networks using PyTorch and TensorFlow
+currently, I'm learning about deep learning and neural networks using PyTorch and TensorFlow
 and also big data using the `R` programming language
 
 ## Game Development
 
-I have created a few games using Python's Pygame library, and developed an AI framework for games using Python and PyTorch.
+I have created a few games using Python's Pygame libraries and developed an AI framework for games using Python and PyTorch.
 
 I have written a Ray tracing engine using Java17, this project is more than 10k lines of code.
 
@@ -132,14 +132,19 @@ I have written a Ray tracing engine using Java17, this project is more than 10k 
 
 ## Amount of code written
 
-I have use a tool that scan a GitHub repo and give the number of lines of code in the repo for the top repo this is the result
+I have used a tool that scans a GitHub repo and gives the number of lines of code in the repo for the top repo this is the result
 
 <img src="/lines-of-code.png" alt="Lines of Code" height="500"/>
 
-I have use the `cloc` tool in order to count the amount of code I have written in the past 3-4 years and here is the result
+I have written a `bash` script that takes a GitHub username and
+1. clone all the public repos of that user
+2. use the `jq` and `cloc` tools to count and summarize the code that the user has written
+3. give a `.csv` file as it's output
 
-> Note: the data might not be up to date
-> since I have written more code since the last time I ran the tool
+[The bash script I wrote](https://github.com/dattali18/github-cloc)
+
+> [!Note]
+> The data might not be up to date, I have written more code since the last time I ran the tool
 
 |language              |files|line of code|
 |----------------------|-----|------------|
