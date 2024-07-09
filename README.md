@@ -4,7 +4,7 @@
 
 👋 Hi, I’m @dattali18 (Daniel Attali), a third-year software engineering student 🖥️ with a specialization in AI, ML, and Data Science. I'm passionate about software development and have experience with a variety of programming languages and technologies:
 
-<!--- 
+<!---
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-33719C?style=flat-square&logo=python&logoColor=white" />
   <img alt="Swift" src="https://img.shields.io/badge/-Swift-FF471F?style=flat-square&logo=swift&logoColor=white" />
@@ -21,28 +21,28 @@
 </p>
 --->
 
-![python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
-![swift](https://img.icons8.com/?size=100&id=24465&format=png&color=000000)
-![C#](https://img.icons8.com/?size=100&id=mhwmyz1eu7T5&format=png&color=000000)
-![Java](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)
-![C++](https://img.icons8.com/?size=100&id=40669&format=png&color=000000)
-![JavaScript](https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000)
-![HTML5](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
-![CSS3](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
-![SQL](https://img.icons8.com/?size=100&id=39858&format=png&color=000000)
-![R](https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000)
-![React](https://img.icons8.com/?size=100&id=123603&format=png&color=000000)
-![Node](https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000)
-![PyTorch](https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000)
-![Pandas](https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000)
-![.NET](https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000)
-![iOS](https://img.icons8.com/?size=100&id=WWXOYwjdxZE8&format=png&color=000000)
-![Linux](https://img.icons8.com/?size=100&id=17842&format=png&color=000000)
-![Windows](https://img.icons8.com/?size=100&id=gXoJoyTtYXFg&format=png&color=000000)
+![python](https://img.icons8.com/?size=50&id=13441&format=png&color=000000)
+![swift](https://img.icons8.com/?size=50&id=24465&format=png&color=000000)
+![C#](https://img.icons8.com/?size=50&id=mhwmyz1eu7T5&format=png&color=9970d3)
+![Java](https://img.icons8.com/?size=50&id=13679&format=png&color=000000)
+![C++](https://img.icons8.com/?size=50&id=40669&format=png&color=000000)
+![JavaScript](https://img.icons8.com/?size=50&id=PXTY4q2Sq2lG&format=png&color=000000)
+![HTML5](https://img.icons8.com/?size=50&id=20909&format=png&color=000000)
+![CSS3](https://img.icons8.com/?size=50&id=21278&format=png&color=000000)
+![SQL](https://img.icons8.com/?size=50&id=39858&format=png&color=F5F5F5)
+![R](https://img.icons8.com/?size=50&id=CLvQeiwFpit4&format=png&color=000000)
+![React](https://img.icons8.com/?size=50&id=123603&format=png&color=000000)
+![Node](https://img.icons8.com/?size=50&id=hsPbhkOH4FMe&format=png&color=000000)
+![PyTorch](https://img.icons8.com/?size=50&id=jH4BpkMnRrU5&format=png&color=000000)
+![Pandas](https://img.icons8.com/?size=50&id=xSkewUSqtErH&format=png&color=000000)
+![.NET](https://img.icons8.com/?size=50&id=1BC75jFEBED6&format=png&color=000000)
+![iOS](https://img.icons8.com/?size=50&id=WWXOYwjdxZE8&format=png&color=F5F5F5)
+![Linux](https://img.icons8.com/?size=50&id=17842&format=png&color=000000)
+![Windows](https://img.icons8.com/?size=50&id=gXoJoyTtYXFg&format=png&color=000000)
 
 - Python 🐍
 - Swift 🍏
-- C# 
+- C#
 - Java ☕
 - C/C++
 - JavaScript (TypeScript) 🕸️
@@ -52,7 +52,7 @@
 - CMake
 - JSON + XML
 - React ⚛️
-- Node.js 
+- Node.js
 - PyTorch 🚀
 - TensorFlow 🧠
 - NumPy + Pandas 🐼
@@ -108,7 +108,7 @@ used React for front-end development and Node.js for back-end development.
 - Axios
 - MySQL
 
-### Repos 
+### Repos
 
 - [Frontend for a school project `React`](https://github.com/dattali18/Windows-System-Frontend-React)
 - [Backend for a school project `C#`](https://github.com/dattali18/WindowsSystem-Backend)
@@ -164,6 +164,7 @@ I have used a tool that scans a GitHub repo and gives the number of lines of cod
 <img src="/lines-of-code.png" alt="Lines of Code" height="500"/>
 
 I have written a `bash` script that takes a GitHub username and
+
 1. clone all the public repos of that user
 2. use the `jq` and `cloc` tools to count and summarize the code that the user has written
 3. give a `.csv` file as it's output
@@ -173,32 +174,31 @@ I have written a `bash` script that takes a GitHub username and
 > [!Note]
 > The data might not be up to date, I have written more code since the last time I ran the tool
 
-|language              |files|line of code|
-|----------------------|-----|------------|
-|C++                   |116  |11651       |
-|C/C++ Header          |57   |4154        |
-|CMake                 |2    |65          |
-|C#                    |113  |10569       |
-|Python                |117  |8190        |
-|Jupyter Notebook      |7    |4005        |
-|JavaScript            |51   |15639       |
-|TypeScript            |47   |1986        |
-|JSX                   |40   |1655        |
-|CSS                   |71   |9902        |
-|HTML                  |56   |7699        |
-|Java                  |70   |9822        |
-|Swift                 |120  |11055       |
-|Markdown              |45   |6099        |
-|XML                   |80   |4088        |
-|Sass                  |15   |2703        |
-|XAML                  |19   |2381        |
-|YAML                  |2    |121         |
-|Bash                  |4    |83          |
-|Assembly              |1    |54          |
-|JSON                  |36   |69186       |
-|SQL                   |47   |33327       |
-|CSV                   |20   |9943        |
-
+| language         | files | line of code |
+| ---------------- | ----- | ------------ |
+| C++              | 116   | 11651        |
+| C/C++ Header     | 57    | 4154         |
+| CMake            | 2     | 65           |
+| C#               | 113   | 10569        |
+| Python           | 117   | 8190         |
+| Jupyter Notebook | 7     | 4005         |
+| JavaScript       | 51    | 15639        |
+| TypeScript       | 47    | 1986         |
+| JSX              | 40    | 1655         |
+| CSS              | 71    | 9902         |
+| HTML             | 56    | 7699         |
+| Java             | 70    | 9822         |
+| Swift            | 120   | 11055        |
+| Markdown         | 45    | 6099         |
+| XML              | 80    | 4088         |
+| Sass             | 15    | 2703         |
+| XAML             | 19    | 2381         |
+| YAML             | 2     | 121          |
+| Bash             | 4     | 83           |
+| Assembly         | 1     | 54           |
+| JSON             | 36    | 69186        |
+| SQL              | 47    | 33327        |
+| CSV              | 20    | 9943         |
 
 <!---
 dattali18/dattali18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
