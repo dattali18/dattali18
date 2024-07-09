@@ -39,6 +39,8 @@
 ![iOS](https://img.icons8.com/?size=50&id=WWXOYwjdxZE8&format=png&color=F5F5F5)
 ![Linux](https://img.icons8.com/?size=50&id=17842&format=png&color=000000)
 ![Windows](https://img.icons8.com/?size=50&id=gXoJoyTtYXFg&format=png&color=000000)
+![Git](https://img.icons8.com/?size=50&id=20906&format=png&color=000000)
+![GitHub](https://img.icons8.com/?size=50&id=62856&format=png&color=000000)
 
 - Python 🐍
 - Swift 🍏
@@ -56,6 +58,7 @@
 - PyTorch 🚀
 - TensorFlow 🧠
 - NumPy + Pandas 🐼
+- Git + GitHub 🐙
 
 ## My GitHub contributions summary
 
