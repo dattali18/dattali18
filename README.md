@@ -80,14 +80,20 @@ used React for front-end development and Node.js for back-end development.
 
 ### Technologies
 
+- HTML, CSS, JavaScritpt
 - React (Js, TypeScript)
 - Node.js
+- Express.js
+- Axios
+- MySQL
 
 ### Repos 
 
 - [Frontend for a school project `React`](https://github.com/dattali18/Windows-System-Frontend-React)
 - [Backend for a school project `C#`](https://github.com/dattali18/WindowsSystem-Backend)
 - [A simple website to see and analyze the repo of GitHub users `React`](https://github.com/dattali18/GitHub-user-search)
+- [A Simple Todo list + a guessing game](https://github.com/dattali18/FSWD-Project-4)
+- [A `CRUD` React app using `json-server` as a backend](https://github.com/dattali18/FSWD-Project-5)
 
 ## Machine Learning and Data Science
 
@@ -98,7 +104,7 @@ I have written a C++ Math library using C++20 and CMake, this library is used fo
 ### Technologies
 
 - Python
-- PyTorch
+- PyTorch + TensorFlow + Keras
 - Scikit-learn
 - Pandas
 - NumPy
