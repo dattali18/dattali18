@@ -4,6 +4,7 @@
 
 👋 Hi, I’m @dattali18 (Daniel Attali), a third-year software engineering student 🖥️ with a specialization in AI, ML, and Data Science. I'm passionate about software development and have experience with a variety of programming languages and technologies:
 
+<!--- 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-33719C?style=flat-square&logo=python&logoColor=white" />
   <img alt="Swift" src="https://img.shields.io/badge/-Swift-FF471F?style=flat-square&logo=swift&logoColor=white" />
@@ -18,6 +19,26 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-R-116FB8?style=flat-square&logo=r&logoColor=white" />
 </p>
+--->
+
+![python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
+![swift](https://img.icons8.com/?size=100&id=24465&format=png&color=000000)
+![C#](https://img.icons8.com/?size=100&id=mhwmyz1eu7T5&format=png&color=000000)
+![Java](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)
+![C++](https://img.icons8.com/?size=100&id=40669&format=png&color=000000)
+![JavaScript](https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000)
+![HTML5](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
+![CSS3](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
+![SQL](https://img.icons8.com/?size=100&id=39858&format=png&color=000000)
+![R](https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000)
+![React](https://img.icons8.com/?size=100&id=123603&format=png&color=000000)
+![Node](https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000)
+![PyTorch](https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000)
+![Pandas](https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000)
+![.NET](https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000)
+![iOS](https://img.icons8.com/?size=100&id=WWXOYwjdxZE8&format=png&color=000000)
+![Linux](https://img.icons8.com/?size=100&id=17842&format=png&color=000000)
+![Windows](https://img.icons8.com/?size=100&id=gXoJoyTtYXFg&format=png&color=000000)
 
 - Python 🐍
 - Swift 🍏
