@@ -73,6 +73,12 @@
 
 # Experience
 
+## C++
+
+[![math library](https://github-readme-stats.vercel.app/api/pin/?&theme=dark&show_owner=true&username=dattali18&repo=CPP-Math-Library)](https://github.com/dattali18/CPP-Math-Library)
+
+# Project
+
 ## App Development
 
 I build native iOS apps using SwiftUI and backend systems with ASP.NET in C#. I've also worked on school projects in Java, C++, and Python.
