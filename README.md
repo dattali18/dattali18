@@ -69,7 +69,7 @@
 > [!Note]
 > according to a tool called `github-readme-stats.vercel` might not be super accurate
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dattali18&size_weight=0&count_weight=1&hide=CMake,Jupiter,CSS&langs_count=8&theme=dark&layout=donut-vertical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dattali18&theme=dark&count_private=true&layout=compact&hide=Jupyter%20Notebook)
 
 # Experience
 
