@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=dattali18&color=fb4362)
 
-👋 Hi, I’m @dattali18 (Daniel Attali), a third-year software engineering student 🖥️ with a specialization in AI, ML, and Data Science. I'm passionate about software development and have experience with a variety of programming languages and technologies:
+👋 Hi, I’m @dattali18 (Daniel Attali), a 4th year software engineering student 🖥️ with a specialization in AI, ML, and Data Science. I'm passionate about software development and have experience with a variety of programming languages and technologies:
 
 <!---
 <p>
