@@ -17,7 +17,7 @@
 
 ## Code written
 
-see the code at ![here](https://github.com/dattali18/github_cloc) to get yours
+see the code at [here](https://github.com/dattali18/github_cloc) to get yours
 
 | files |   language   | blank | comment |  code |
 | ----: | :----------: | ----: | ------: | ----: |
